@@ -5,7 +5,7 @@ review for plans for exceptions in weigo's projects
 
 is just been year since the project inspection , now in this post
 
-i'm gonna be working and mainting the weigo's projecs if i had the perfect time to do it
+i'm gonna be working and maintaining the weigo's projecs if i had the perfect time to do it
 
 the reasion why i'm sometimes being late or not able to do or even woriking in my projects and stuff 
 
