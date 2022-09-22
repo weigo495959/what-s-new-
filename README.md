@@ -1,5 +1,5 @@
 # what-s-new in weigo's stuff -
-review for plans for exceptions in weigo's projects  
+review for plans for Expectations in weigo's projects  
 
 
 
