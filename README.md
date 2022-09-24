@@ -33,3 +33,12 @@ And i was learning little about android appilcation development using java langu
  what's is weigo
  
  is a collection of free creative & innovative computer software projects which can be used as as next-gen computing Platform
+ 
+ the name Weigo is an acronym for 'W''i'dg'e' t of tools for creators to 'g' 'o' enjoy with it 
+                                   |  ^------v                            |   |
+                                   |         v                            |   |
+                                   |         v                            |   |
+                                   |         v                            |   |
+                                   W       e i                            g   o
+ 
+ details of the project is still secret and is not yet finished.
