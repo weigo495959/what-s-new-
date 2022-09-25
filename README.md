@@ -49,4 +49,4 @@ And i was learning little about android appilcation development using java langu
  
  and see you guys later ...
  
- /// (c) MMXXII weigo
+ /// (c) MMXXII weigo Weigo Laboratories communications.com
