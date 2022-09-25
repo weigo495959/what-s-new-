@@ -9,7 +9,7 @@ i'm gonna be working and maintaining the weigo's projecs if i had the perfect ti
 
 the reasion why i'm sometimes being late or not able to do or even woriking in my projects and stuff 
 
-because of high school homework & tests stuff
+because of high school homework & ex stuff
 thats why I was not able to post someting in the end of 2021
 
 this year im gonna be working well to do my best as i can, as well in my career becuse i'm sure i'm just well be best at it 
@@ -32,7 +32,7 @@ And i was learning little about android appilcation development using java langu
  
  what's is weigo
  
- is a collection of free creative & innovative computer software projects which can be used as as next-gen computing Platform
+ is a collection of free creative & enjoyable innovative computer software projects which can be used as as next-gen computing Platform
  
  the name Weigo is an acronym for 'W''i'dg'e' t of tools for creators to 'g' 'o' enjoy with it 
                                    |  ^------v                            |   |
@@ -42,3 +42,11 @@ And i was learning little about android appilcation development using java langu
                                    W       e i                            g   o
  
  details of the project is still secret and is not yet finished.
+ 
+ so, i'm well be work as best as i can to make it possible because i like the enjoyment create it as well as innovate it
+ 
+ because that is my life career
+ 
+ and see you guys later ...
+ 
+ /// (c) MMXXII weigo
