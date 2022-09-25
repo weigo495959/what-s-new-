@@ -9,7 +9,7 @@ i'm gonna be working and maintaining the weigo's projecs if i had the perfect ti
 
 the reasion why i'm sometimes being late or not able to do or even woriking in my projects and stuff 
 
-because of high school homework & ex stuff
+because of high school homework & Exams stuff
 thats why I was not able to post someting in the end of 2021
 
 this year im gonna be working well to do my best as i can, as well in my career becuse i'm sure i'm just well be best at it 
