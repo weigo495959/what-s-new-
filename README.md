@@ -1,5 +1,5 @@
 # what-s-new in weigo's stuff -
-review for plans for Expectations in weigo's projects  
+///// review for plans for Expectations in weigo's projects /////
 
 
 
@@ -49,4 +49,4 @@ And i was learning little about android appilcation development using java langu
  
  and see you guys later ...
  
- /// (c) MMXXII Weigo Laboratories communications.com
+ //// (c) MMXXII Weigo Laboratories communications.com ////
