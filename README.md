@@ -19,7 +19,7 @@ who i am
 
 i'm an independent software developer in sultanate of oman live in Al Buraimi Governorate
 
-software engineering and creation of computer software is my favorite stuff im my live career
+software engineering and creation of computer software is my favorite stuff in my live career
 
 i started it since age 16 in early 2020s
 
@@ -28,7 +28,7 @@ with learning assembly language (alone) & pyhton programing stuff at Tenth Grade
 And i was learning little about android appilcation development using java language about a two years ago
  and my favorite integrated development environment (IDE) for everyting is visual studio
  and i'm a C++ programer i just beginning to using it and learning it a lot since my inspection of my project in late 2021
- since c++ is yet great programing language to set smoothly underneath the hardware itself like C does in the 1970s & Now.
+ since c++ is yet the great programing language to set smoothly underneath the hardware itself like C does in the 1970s & Now.
  
  what's is weigo
  
@@ -43,7 +43,7 @@ And i was learning little about android appilcation development using java langu
  
  details of the project is still secret and is not yet finished.
  
- so, i'm well be work as best as i can to make it possible because i like the enjoyment create it as well as innovate it
+ so, i'm well be work as best as i can to make it possible because i like the enjoyment to create it as well as innovate it
  
  because that is my life career
  
