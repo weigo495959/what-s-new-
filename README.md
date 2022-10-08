@@ -13,7 +13,7 @@ is because of high school homework & Exams stuff
 thats why I was not able to post someting in the end of 2021
 
 this year im gonna be working well to do my best as i can, as well in my career becuse i'm sure i'm just well be best at it 
-because i'm like to do it and invent it and make it.
+because i'm like to do it and invent it and the enjoyment make it.
 
 who i am
 
